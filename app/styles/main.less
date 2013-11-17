@@ -1,0 +1,32 @@
+//
+//  Simplicvity: Main.less
+//  Author: Eugene Rodionov
+//
+
+@blue: rgb(85, 164, 242);
+@red: rgb(231, 76, 60);
+@black: rgb(17, 17, 17);
+
+body {
+  color: @black;
+  line-height: 1.8;
+}
+
+a {
+  color: @blue;
+  font-weight: 300;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  transition: all .3s ease;
+
+  &:hover {
+    color: @red;
+    border-bottom: 0;
+    text-decoration: none;
+  }
+}
+
+.container {
+  max-width: 750px;
+  margin-bottom: 50px;
+}
