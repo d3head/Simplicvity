@@ -1,6 +1,6 @@
 {
-  "name": "simplicvity",
-  "version": "0.0.0",
+  "name": "Simplicvity",
+  "version": "0.0.2",
   "dependencies": {
     "normalize-css": "~2.1.3"
   },
