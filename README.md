@@ -1,4 +1,4 @@
-Simplicivity
+Simplicvity
 ================================
 Simple CV using Twitter Bootstrap 3, Grunt, Bower, LESS
 
