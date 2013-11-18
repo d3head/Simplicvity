@@ -1,6 +1,6 @@
 Simplicvity
 ================================
-Simple CV using Twitter Bootstrap 3, Grunt, Bower, LESS
+Basic CV. Written with Twitter Bootstrap 3, Grunt, Bower, LESS.
 
 ### Install and compile
 
