@@ -1,5 +1,4 @@
-Simplicvity
-================================
+## Simplicvity
 Basic CV. Written with Twitter Bootstrap 3, Grunt, Bower, LESS.
 
 ### Install and compile
